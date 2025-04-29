@@ -1,4 +1,4 @@
-# 📘 Proyek UX Design – [Nama Proyek]
+# 📘 Proyek UX Design – Smart Flood Monitoring
 
 Selamat datang di repositori dokumentasi lengkap proyek UX Design kami. Proyek ini disusun melalui pendekatan desain yang berfokus pada pengguna (user-centered design), mencakup tahap riset, analisis, perancangan, evaluasi, hingga dokumentasi ilmiah.
 
