@@ -46,8 +46,7 @@ Perencanaan dan pengelolaan tugas, jadwal, serta pembagian tanggung jawab tim.
 Dokumen akademik yang menyajikan proses dan hasil proyek untuk keperluan publikasi ilmiah.  
 🔗 [Lihat Draft Jurnal](https://docs.google.com/document/d/14efiv4Mal2DiDbskJWoq5jPVxco9ygFz3eA5ekpzoDg/edit?usp=sharing)
 
-### 11. 🎥 Video Presentasi / Demo  
-Video penjelasan dan/atau demo dari solusi desain yang dikembangkan.  
+### 11. 🎥 Video wawancara.  
 🔗 [Tonton Video](https://youtu.be/Vykst1X--yA?si=_bAAjxF7VClnxeon)
 
 ---
